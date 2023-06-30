@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Kenta Okuyama
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Kenta
+last_name: Okuyama
 
 # Status emoji
 status:
@@ -14,34 +14,34 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD candidate 
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Lund University
+    url: https://www.lunduniversity.lu.se/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include neighborhood environments, noncommunicable diseases, and physical activity
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Causal inference
+  - Neighborhood environment
+  - Physical activity
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Social medicine and Epidemiology
+      institution: Lund University
+      year: 2023
+    - course: MPH in Epidemiology
+      institution: Colorado School of Public Health
+      year: 2016
+    - course: BA in Sports and Health
+      institution: Hosei University
+      year: 2014 
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
